@@ -27,8 +27,10 @@ I am a data analyst focused on transforming raw data into meaningful insights. M
 
 ## Featured Projects
 
-### Sales Analysis Dashboard
-Analyzed sales data to identify trends, key performance indicators, and business opportunities through interactive dashboards.
+### Retail Sales Performance Analysis
+Analyzed $2.3M in retail sales data across 9.994 transactions using Google Sheets, pivot tables, and dashboard visualizations. Evaluated regional performance, category profitability, and customer purchasing behavior to identify key business insights and support data-driven decision-making.
+
+**Skills:** Data Analysis, KPI Development, Dashboard Design, Business Intelligence, Data Visualization
 
 ### Customer Insights Project
 Explored customer behavior data to uncover patterns and support data-driven decision making.
