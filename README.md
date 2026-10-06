@@ -1,5 +1,3 @@
-# Sara Hudson
-
 ## Data Analyst
 
 Turning data into actionable insights through analysis, visualization, and storytelling.
