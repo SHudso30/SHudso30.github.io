@@ -42,7 +42,7 @@ Used Python and SQL to clean, organize, and analyze datasets for reporting and v
 
 ## Resume
 
-resume.pdf
+[Sara Hudson Resume](sarahudsonresume.pdf)
 
 ---
 
