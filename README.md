@@ -32,7 +32,7 @@ Analyzed $2.3M in retail sales data across 9.994 transactions using Google Sheet
 
 **Skills:** Data Analysis, KPI Development, Dashboard Design, Business Intelligence, Data Visualization
 
-### Customer Insights Project
+### Customer Insights Analysis
 Explored customer behavior data to uncover patterns and support data-driven decision making.
 
 ### Data Cleaning and Exploration
