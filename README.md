@@ -32,6 +32,11 @@ Analyzed $2.3M in retail sales data across 9.994 transactions using Google Sheet
 
 **Skills:** Data Analysis, KPI Development, Dashboard Design, Business Intelligence, Data Visualization
 
+### [Automated SEO & Growth Analytics Pipeline](https://github.com/SHudso30/seo-analytics-pipeline)
+Built a fully cloud-native ETL (Extract, Transform, Load) data pipeline in Python, SQL, Pandas, SQLite3, Git, and GitHub Codespaces to automate the programmatic ingestion, normalization, and relational mapping of uncurated search marketing web metrics. The environment handles noisy, real-world data feeds by automatically stripping erratic string padding, dropping identical duplicate row logs, and dynamically computing missing numeric parameters via column median imputation before loading the structured data matrix directly into an optimized relational database engine file for structural validation.
+
+**Skills:** Data Engineering & Wrangling, Database Infrastructure, Analytical Insights & Retrieval, Version Control & Cloud Workspaces
+
 ---
 
 ## Resume
