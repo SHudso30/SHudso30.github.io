@@ -41,7 +41,7 @@ Built a fully cloud-native ETL (Extract, Transform, Load) data pipeline in Pytho
 
 ## Resume
 
-[Download My Resume](./Sara_Hudson_Resume.pdf)
+[View Resume](https://shudso30.github.io/Sara%20Hudson%20Resume.pdf)
 
 ---
 
